@@ -26,6 +26,11 @@ Focused on **Adaptive Learning**, **Healthcare AI**, and **Agentic Systems**.
 | **[firstaid](https://github.com/danilao-bot/firstaid)** | Voice-first AI coordinator for emergency assistance in critical minutes. | `TypeScript` `AI` |
 | **[banking-app](https://github.com/danilao-bot/banking-app)** | Core Banking Management System built on OOP architecture and FastAPI. | `TypeScript` `FastAPI` |
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 ### Connect with Me
 - **Email:** budgetboss001@gmail.com
 - **LinkedIn:** [linkedin.com/in/your-linkedin-handle](https://linkedin.com)
