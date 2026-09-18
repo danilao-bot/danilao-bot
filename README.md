@@ -39,10 +39,9 @@ Focused on **Adaptive Learning**, **Healthcare AI**, and **Agentic Systems**.
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilao-bot&show_icons=true&theme=dark" alt="Daniel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilao-bot&layout=compact&theme=dark" alt="Top Languages" width="45%" />
-</p>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilao-bot&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danilao-bot&layout=compact&theme=dark)
 
 ---
 
